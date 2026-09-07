@@ -3,7 +3,7 @@
 * 💻 **Frontend & Full-Stack Developer** passionate about building modern, responsive web applications.
 * 🎓 **Computer Science Student** focusing on software development, algorithms, and web architectures.
 * 🛠️ **Tech Stack:** JavaScript, HTML5, CSS3, React, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap.
-* 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/YOUR_LINK) | [Email](mailto:YOUR_EMAIL@gmail.com)
+* 📬 **How to reach me:** [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-elsayed-a3a648293/) | [Email](mailto:ahmedoscar11912@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ahmed.oscar._)
 
 ---
 
