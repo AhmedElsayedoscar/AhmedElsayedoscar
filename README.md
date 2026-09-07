@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmed 👋
 
-* 💻 **Frontend & Full-Stack Developer** passionate about building modern, responsive web applications.
-* 🎓 **Computer Science Student** focusing on software development, algorithms, and web architectures.
+* 💻 **Frontend & MERN-Stack Developer** passionate about building modern, responsive web applications.
+* 🎓 **Computer Science** focusing on software development, algorithms, and web architectures.
 * 🛠️ **Tech Stack:** JavaScript, HTML5, CSS3, React, Node.js, Express, MongoDB, Tailwind CSS, Bootstrap.
 * 📬 * 📬 **How to reach me:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-elsayed-a3a648293/) | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/+201018761843) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ahmed.oscar._) | [ahmedoscar11912@gmail.com](mailto:ahmedoscar11912@gmail.com)
 ---
